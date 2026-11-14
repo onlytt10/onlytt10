@@ -1,16 +1,43 @@
-## Hi there 👋
+# 안녕하세요, 임하준입니다.
 
-<!--
-**onlytt10/onlytt10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**사람들이 편하게 사는 세상을 만들고 싶은 고등학생입니다.**
 
-Here are some ideas to get you started:
+공부와 일상에서 발견한 작은 불편을 해결하는 도구를 만들며 배우고 있습니다.  
+반복되는 수고를 줄이고, 처음 사용하는 사람도 이해하기 쉬운 프로그램을 만들고 싶습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[개인 웹사이트 ↗](https://begin-with-one-1108.curlybeam2.chatgpt.site/)
+
+## 만들고 있는 것
+
+### 학교 광고 송출 프로그램
+라즈베리 파이에서 실행하는 Flask 기반 학교 디지털 게시판입니다.
+
+- 학년별 이미지·영상 송출
+- 드래그로 광고 재생 순서 변경
+- 광고 검색·필터와 삭제 확인
+
+**현재 상태:** 소스 공개  
+[저장소와 실행 방법 보기 ↗](https://github.com/onlytt10/school-tv-ad)
+
+### 영어 지문 암기 연습 프로그램
+영어 수행평가 지문을 외우기 위해 만든 웹 도구입니다.
+
+- 원문을 보며 입력하는 연습 모드와 원문을 숨기는 실전 모드
+- 채점 결과를 색으로 구분
+- 단어 일치율이 50% 이하인 문장을 앞뒤 문장과 함께 복습
+
+**현재 상태:** 웹 버전 제작  
+[프로그램 사용해 보기 ↗](https://speech-memory-nov04.curlybeam2.chatgpt.site/)
+
+### 자동 스크롤 앱
+긴 콘텐츠를 읽을 때 반복해서 화면을 밀어야 하는 불편을 줄이기 위한 Android 앱입니다.
+
+읽는 속도에 맞춘 스크롤과 간편한 제어를 목표로, 스크롤 동작과 앱별 호환성을 시험하고 개선하고 있습니다.
+
+**현재 상태:** 개발 중
+
+## 제가 중요하게 생각하는 것
+
+- **가까운 문제에서 시작하기** — 직접 겪거나 관찰한 불편을 출발점으로 삼습니다.
+- **만들고 확인하며 배우기** — AI 도구의 도움을 받아 요구사항을 구체화하고, 결과를 직접 사용하며 개선합니다.
+- **과정도 남기기** — 무엇을 만들었는지뿐 아니라 왜 그렇게 만들었는지 기록하려고 합니다.
